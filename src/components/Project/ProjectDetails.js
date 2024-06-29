@@ -32,7 +32,7 @@ export const ProjectDetails = [
       imgUrl: require('../../assets/img/project-img2.jpeg'),
       category: "Javascript",
       techUsed : ["HTML5", "CSS3", "Javascript"],
-      liveDemo : "",
+      liveDemo : "https://random-roll-dice.netlify.app/",
       githubCode : "https://github.com/Rahul5126/roll-the-dice"
     },
     {
